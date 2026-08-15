@@ -4,7 +4,7 @@ README.md
 
 Files
 
-- vr_competitive_intelligence_eu_ai_act_assessment.md
+- vr_copilot_eu_ai_act_assessment.md
   Complete compliance assessment covering all required phases of the assignment.
 
 - SYSTEM_BRIEF.md
